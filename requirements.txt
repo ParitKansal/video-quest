@@ -1,0 +1,16 @@
+azure_storage==0.36.0
+langchain
+langchain-community
+openai
+python-dotenv
+streamlit
+streamlit_chat
+
+langchain_openai
+langchain_pinecone
+langchain[docarray]
+docarray
+pydantic==1.10.8
+pytube==15.0.0
+tiktoken 
+ruff
